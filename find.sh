@@ -1,6 +1,5 @@
 #!/usr/bash
-#
-# find something on file system
+# This script is not executable
 # 
 
 

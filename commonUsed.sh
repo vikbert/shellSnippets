@@ -1,4 +1,4 @@
-#!/usr/bash
+
 
 # server current directory tree at http:$hostname:8000
 python -m SimpleHttpServer
